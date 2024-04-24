@@ -1,4 +1,4 @@
-package com.coffee76.gateway.beans;
+package com.coffee76.gateway.bean;
 
 import org.springframework.cloud.gateway.route.RouteLocator;
 import org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder;
